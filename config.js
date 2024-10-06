@@ -1,0 +1,1 @@
+export const DATABASE_CRAWLER_URI = process.env.MONGODB_CRAWLER_URI;
